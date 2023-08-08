@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../degrees"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../maze solving 2"
+		},
+		{
+			"path": "../../solving-maze"
+		},
+		{
+			"path": "../../bfs"
+		}
+	],
+	"settings": {}
+}
